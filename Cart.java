@@ -1,6 +1,6 @@
 package p1;
 import java.util.Scanner;
-
+//Cart class
 class Cart {
 	public static void main(String[] args) {
 		int[] price = {10,20,30};
